@@ -3,3 +3,6 @@ def sum(a, b):
 
 def substract(a, b):
     return a-b
+
+def kali(a, b):
+    return a * b
